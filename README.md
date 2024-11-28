@@ -2,13 +2,14 @@
 
 # Deepfake-Detection
 
-[NOTE: The trained model has not been uploaded due to GitHub's file size restriction, which limits uploads to files smaller than 25MB.] 
+[NOTE: The trained model has not been uploaded due to GitHub's file size restriction, which limits uploads to files smaller than 25MB.(ONLY FOR FACE SWAP DEEPFAKE DETECTION)] 
   
 
 ## Index: 
 - [About The Project](#About-The-Project)
 - [Key Features](#Key-Features)
 - [Installation](#Installation)
+- [Deployment](#Deployment)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 In a world where deepfakes blur the line between real and fake, our Deepfake Detection Platform provides a trusted solution for safeguarding authenticity. Utilizing cutting-edge AI, we specialize in detecting face swaps in videos and audio swaps in voice recordings, ensuring even the most sophisticated manipulations are uncovered. Our advanced algorithms analyze subtle inconsistencies in both visual and audio content, delivering reliable, real-time results. Designed for individuals and organizations alike, we empower you to combat misinformation, protect identities, and maintain trust in the digital era. Experience the power of AI in preserving truth—because authenticity matters.
@@ -22,7 +23,7 @@ In a world where deepfakes blur the line between real and fake, our Deepfake Det
 # Installation
 To install it, download all the files in a ZIP format, check the image location according to your device, and then click on the main.py file to run it,your site will be up and running.
 
-## Deployment
+# Deployment
 
 To deploy this project run
 ```bash
